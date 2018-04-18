@@ -10,4 +10,4 @@ VBA code from a spreadsheet to manage filtering of email contacts when sending m
 * Download your contacts and suppression reports into input directory
 * Run do_all
 
-For more information on what this is for, read the relevant [blog post](http://mikekling.com/excel-marketing-list-export-spreadsheet/).
+For more information on what this is for, read the relevant [blog post](http://mikekling.com/manage-email-lists-with-excel-macros/).
